@@ -1,10 +1,15 @@
-baseurl = "/"
+baseurl = "https://mark-torrance.github.io/Torrance-Writing/"
+
+draft: false # if set to true, changes will not be published
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+#enableEmoji = true
+
 languageCode = "en-uk"
 title = "TORRANCE | WRITING"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
