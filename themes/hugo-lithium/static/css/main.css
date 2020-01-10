@@ -4,7 +4,7 @@ body {
   padding: 0px;
   position: relative;
   height: 101%;
-  min-width: 420px
+  min-width: 340px
 }
 
 body {
@@ -44,7 +44,7 @@ code {
 }
 
 .nav {
-  max-width: 800px;
+  max-width: 700px;
   margin: 0 auto;
   padding: 0 15px;
   text-align: right;
@@ -373,3 +373,37 @@ code {
   }
 }
 
+@media (max-width: 440px) {
+  .header {
+    padding: 25px 0;
+  }
+
+  .nav-logo {
+    margin-top: -5px;
+  }
+
+  .nav-logo img {
+    max-height: 50px;
+  }
+
+  .nav-links {
+    font-size: 14px;
+	margin: 0 0 0 5px
+  }
+  
+  .nav-title {
+    font-size: 18px;
+	margin-top: -5px;
+	margin-left: 24px;
+	word-spacing: 6px;
+  }
+  
+  .nav-links li {
+    margin: 0 0 0 8px;
+  }
+
+  .content {
+    font-size: 14px;
+    line-height: 1.8;
+  }
+}

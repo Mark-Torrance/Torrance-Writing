@@ -18,11 +18,14 @@ disqusShortname = ""
     name = "About"
     url = "/about/"
 #[[menu.main]]
+#    name = "another thing"
+#    url = "/another_page/"
+#[[menu.main]]
 #   name = "GitHub"
 #   url = "https://github.com/rstudio/blogdown"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/mark__torrance"
+#[[menu.main]]
+#    name = "Twitter"
+#    url = "https://twitter.com/mark__torrance"
 
 [params]
     description = "TORRANCE | WRITING"

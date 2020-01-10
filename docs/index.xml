@@ -17,7 +17,7 @@
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/Torrance-Writing/2019/01/26/a-text-post/</guid>
-      <description>library(tidyverse)## -- Attaching packages ----------------------------------- tidyverse 1.2.1 --## v ggplot2 3.2.1 v purrr 0.3.2 ## v tibble 2.1.1 v dplyr 0.8.0.1## v tidyr 0.8.3 v stringr 1.3.0 ## v readr 1.1.1 v forcats 0.3.0## -- Conflicts -------------------------------------- tidyverse_conflicts() --## x dplyr::filter() masks stats::filter()## x dplyr::lag() masks stats::lag()Df &amp;lt;- ToothGrowthA page for my Blogdown siteBelow you’ll find a plot of something. inline code looks like this</description>
+      <description>library(tidyverse)## -- Attaching packages -------------------------------- tidyverse 1.2.1 --## v ggplot2 3.2.1 v purrr 0.3.2 ## v tibble 2.1.1 v dplyr 0.8.0.1## v tidyr 0.8.3 v stringr 1.3.0 ## v readr 1.1.1 v forcats 0.3.0## -- Conflicts ----------------------------------- tidyverse_conflicts() --## x dplyr::filter() masks stats::filter()## x dplyr::lag() masks stats::lag()Df &amp;lt;- ToothGrowthA page for my Blogdown siteBelow you’ll find a plot of something. inline code looks like this</description>
     </item>
     
     <item>
@@ -35,7 +35,8 @@
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/Torrance-Writing/about/</guid>
-      <description>My name is Mark Torrance. I belong to the Psychology Department at Nottingham Trent University, but am frequently borrowed - to considerable personal benefit - by the Norwegian National Reading Centre at University of Stavanger and by Raquel Fidlago, and co-researchers at University of León. My research explores the cognitive and educational psychology of text production: How our minds turn ideas into text - letters, words, sentences, blog posts - on the screen or page, and how best to teach children to do this well.</description>
+      <description>My name is Mark Torrance. My research explores the cognitive and educational psychology of text production: How our minds turn ideas into text - letters, words, sentences, blog posts - on the screen or page, and how best to teach children to do this well. Quite a bit of my time is taken up with developing methods for capturing writing processes as they unfold in real time.
+I belong to the Psychology Department at Nottingham Trent University, but am borrowed - to considerable personal benefit - by the Norwegian National Reading Centre at University of Stavanger and by Raquel Fidalgo, and co-researchers at University of León.</description>
     </item>
     
   </channel>
