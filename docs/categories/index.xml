@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on TORRANCE | WRITING</title>
-    <link>/Torrance-Writing/categories/</link>
+    <link>https://mark-torrance.github.io/Torrance-Writing/categories/</link>
     <description>Recent content in Categories on TORRANCE | WRITING</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     
-	<atom:link href="/Torrance-Writing/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mark-torrance.github.io/Torrance-Writing/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
