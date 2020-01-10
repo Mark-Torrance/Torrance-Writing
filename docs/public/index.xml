@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TORRANCE | WRITING</title>
+    <link>/</link>
+    <description>Recent content on TORRANCE | WRITING</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test2</title>
+      <link>/2019/01/29/test2/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/29/test2/</guid>
+      <description>I&amp;rsquo;m going to add some text now.
+library(tidyverse)  I&amp;rsquo;ve spent a lot of time preparing blogs in my head over the last six months or so. I&amp;rsquo;ve spent a lot of time preparing blogs in my head over the last six months or so. I&amp;rsquo;ve spent a lot of time preparing blogs in my head over the last six months or so. I&amp;rsquo;ve spent a lot of time preparing blogs in my head over the last six months or so.</description>
+    </item>
+    
+    <item>
+      <title>A test post. But what happens if I give this an incredibly long title so that it has to wrap?</title>
+      <link>/2019/01/26/a-text-post/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/26/a-text-post/</guid>
+      <description>library(tidyverse)## -- Attaching packages ------------------------------------------------------------------------------------------- tidyverse 1.2.1 --## v ggplot2 3.1.0 v purrr 0.2.4## v tibble 1.4.2 v dplyr 0.7.8## v tidyr 0.8.0 v stringr 1.3.0## v readr 1.1.1 v forcats 0.3.0## -- Conflicts ---------------------------------------------------------------------------------------------- tidyverse_conflicts() --## x dplyr::filter() masks stats::filter()## x dplyr::lag() masks stats::lag()Df &amp;lt;- ToothGrowthA page for my Blogdown siteBelow you’ll find a plot of something. inline code looks like this</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/2019/01/26/hello-world/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/26/hello-world/</guid>
+      <description>I&amp;rsquo;ve spent a lot of time preparing blogs in my head over the last six months or so. I am lucky enough to be involved in several different projects, with lots of excellent people. Quite a bit of what we do hasn&amp;rsquo;t and probably won&amp;rsquo;t make it into journal papers. Underneath the smooth (we like to think) surface of our papers there is nearly always technical, difficult, challenging, time consuming, and sometimes frantic, paddling.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My name is Mark Torrance. I belong to the Psychology Department at Nottingham Trent University, but am frequently borrowed - to considerable personal benefit - by the Norwegian National Reading Centre at University of Stavanger and by Raquel Fidlago, and co-researchers at University of León. My research explores the cognitive and educational psychology of text production: How our minds turn ideas into text - letters, words, sentences, blog posts - on the screen or page, and how best to teach children to do this well.</description>
+    </item>
+    
+  </channel>
+</rss>

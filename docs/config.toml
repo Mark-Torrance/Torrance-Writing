@@ -1,0 +1,40 @@
+baseurl = "/"
+languageCode = "en-uk"
+title = "TORRANCE | WRITING"
+theme = "hugo-lithium"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+#[[menu.main]]
+#   name = "GitHub"
+#   url = "https://github.com/rstudio/blogdown"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/mark__torrance"
+
+[params]
+    description = "TORRANCE | WRITING"
+	nav_title = "TORRANCE | WRITING"
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml", "python"]
+    highlightjsTheme = "docco"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    [params.logo]
+    url = "pen.png"
+    width = 50
+    height = 50
+    alt = "TORRANCE | WRITING"
+
