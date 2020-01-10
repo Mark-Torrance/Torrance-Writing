@@ -1,5 +1,5 @@
 ---
-title: "A test post. But what happens if I give this an incredibly long title so that it has to wrap?"
+title: "A test post?"
 author: "Mark Torrance"
 date: '2019-01-26'
 slug: a-text-post
