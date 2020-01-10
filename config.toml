@@ -12,32 +12,33 @@ disqusShortname = ""
 
 
 [permalinks]
-    post = "/:year/:month/:day/:title/"
-    page = "/:title/"
+    post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
     name = "About"
     url = "/about/"
-[[menu.main]]
-    name = "GitHub"
-    url = ""
+#[[menu.main]]
+#   name = "GitHub"
+#   url = "https://github.com/rstudio/blogdown"
 [[menu.main]]
     name = "Twitter"
-    url = ""
+    url = "https://twitter.com/mark__torrance"
 
 [params]
-    mainSections = ["post"]
+    description = "TORRANCE | WRITING"
+	nav_title = "TORRANCE | WRITING"
 
-    description = ""
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml", "python"]
+    highlightjsTheme = "docco"
 
-    # path to the favicon, under "static"
-    favicon = "favicon.ico"
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
 
     [params.logo]
-    url = "logo.png"
+    url = "pen.png"
     width = 50
     height = 50
-    alt = "Logo"
-
-    [params.icon]
-    url = "favicon.ico"
+    alt = "TORRANCE | WRITING"
