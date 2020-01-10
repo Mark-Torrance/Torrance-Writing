@@ -70,12 +70,12 @@
 
     <div class="article-content">
       <pre class="r"><code>library(tidyverse)</code></pre>
-<pre><code>## -- Attaching packages ------------------------------------------------------------------------------------------- tidyverse 1.2.1 --</code></pre>
-<pre><code>## v ggplot2 3.1.0     v purrr   0.2.4
-## v tibble  1.4.2     v dplyr   0.7.8
-## v tidyr   0.8.0     v stringr 1.3.0
-## v readr   1.1.1     v forcats 0.3.0</code></pre>
-<pre><code>## -- Conflicts ---------------------------------------------------------------------------------------------- tidyverse_conflicts() --
+<pre><code>## -- Attaching packages ----------------------------------- tidyverse 1.2.1 --</code></pre>
+<pre><code>## v ggplot2 3.2.1       v purrr   0.3.2  
+## v tibble  2.1.1       v dplyr   0.8.0.1
+## v tidyr   0.8.3       v stringr 1.3.0  
+## v readr   1.1.1       v forcats 0.3.0</code></pre>
+<pre><code>## -- Conflicts -------------------------------------- tidyverse_conflicts() --
 ## x dplyr::filter() masks stats::filter()
 ## x dplyr::lag()    masks stats::lag()</code></pre>
 <pre class="r"><code>Df &lt;- ToothGrowth</code></pre>
@@ -84,7 +84,7 @@
 <p>Below you’ll find a plot of something. <code>inline code looks like this</code></p>
 <pre class="r"><code>Df %&gt;% ggplot(aes(x = dose, y = len, colour = supp, group = supp)) +
                 geom_point()</code></pre>
-<p><img src="/post/2019-01-26-a-text-post_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+<p><img src="/Torrance-Writing/post/2019-01-26-a-text-post_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
 <pre class="r"><code>print(head(Df))</code></pre>
 <pre><code>##    len supp dose
 ## 1  4.2   VC  0.5

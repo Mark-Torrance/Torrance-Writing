@@ -3,44 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mark-torrance.github.io/Torrance-Writing/2019/01/29/test2/</loc>
-    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mark-torrance.github.io/Torrance-Writing/2019/01/26/a-text-post/</loc>
+    <loc>/Torrance-Writing/2019/01/26/a-text-post/</loc>
     <lastmod>2019-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mark-torrance.github.io/Torrance-Writing/2019/01/26/hello-world/</loc>
+    <loc>/Torrance-Writing/2019/01/26/hello-world/</loc>
     <lastmod>2019-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mark-torrance.github.io/Torrance-Writing/about/</loc>
+    <loc>/Torrance-Writing/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mark-torrance.github.io/Torrance-Writing/categories/</loc>
+    <loc>/Torrance-Writing/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mark-torrance.github.io/Torrance-Writing/post/</loc>
-    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <loc>/Torrance-Writing/post/</loc>
+    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mark-torrance.github.io/Torrance-Writing/</loc>
-    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <loc>/Torrance-Writing/</loc>
+    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mark-torrance.github.io/Torrance-Writing/tags/</loc>
+    <loc>/Torrance-Writing/tags/</loc>
     <priority>0</priority>
   </url>
   
