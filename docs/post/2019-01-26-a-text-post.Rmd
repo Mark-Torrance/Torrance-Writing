@@ -1,0 +1,29 @@
+---
+title: "A test post. But what happens if I give this an incredibly long title so that it has to wrap?"
+author: "Mark Torrance"
+date: '2019-01-26'
+slug: a-text-post
+tags: []
+categories: []
+---
+
+```{r, include = T}
+library(tidyverse)
+Df <- ToothGrowth
+
+```
+
+# A page for my Blogdown site
+Below you'll find a plot of something. ```inline code looks like this```
+
+```{r, include = T}
+
+Df %>% ggplot(aes(x = dose, y = len, colour = supp, group = supp)) +
+                geom_point()
+
+print(head(Df))
+
+print(c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'))
+
+
+```
